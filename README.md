@@ -8,6 +8,6 @@ Text to Speech flutter app
 
 ## Screenshot
 
-<img src="pic1.jpeg">
+<img src="pic1.jpeg" width="300">
 <br>
-<img src="pic1.jpeg">
+<img src="pic1.jpeg" width="300">
