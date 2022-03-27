@@ -10,4 +10,4 @@ Text to Speech flutter app
 
 <img src="pic1.jpeg" width="300">
 <br>
-<img src="pic1.jpeg" width="300">
+<img src="pic2.jpeg" width="300">
